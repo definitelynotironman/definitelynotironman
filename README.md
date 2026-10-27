@@ -1,13 +1,13 @@
 # Hi, I'm definitelynotironman! 👋
 
-Jarvis say something cool: ...
+Jarvis say something cool: ...  
 Jarvis?
 JARVIS!
 
 Thank you for stumbling upon my page.
 I'm really just a regular dude who enjoys problem solving, design and engineering.
 
-Creativity is my headline; the only skill i will fight off AI.  
+Creativity is my headline; and one of the few skills i will fight off AI.  
 I love to speak, I love a crowd and I love a challenge. I also love being in a room that reminds me there is always something i can improve on.
 
 ![definitelynotironman's GitHub Streak](https://streak-stats.demolab.com?user=definitelynotironman&theme=dark&hide_border=true)
