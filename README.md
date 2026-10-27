@@ -31,7 +31,7 @@ I love to speak, I love a crowd and I love a challenge. I also love being in a r
 - ☁️ AWS services
 - 💳 A few fintech projects
 
-## 📬 The guy under the mask is:
+## 📬 The man under the mask is:
 - [LinkedIn](https://www.linkedin.com/in/albert-lizazi)
 
 ---
