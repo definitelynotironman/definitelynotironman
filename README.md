@@ -10,8 +10,6 @@ I'm really just a regular dude who enjoys problem solving, design and engineerin
 Creativity is my headline; and one of the few skills i will fight off AI.  
 I love to speak, I love a crowd and I love a challenge. I also love being in a room that reminds me there is always something i can improve on.
 
-![definitelynotironman's GitHub Streak](https://streak-stats.demolab.com?user=definitelynotironman&theme=dark&hide_border=true)
-
 ## 🛠️ What I Get Up To
 
 - ☕ Im an engineering Student
