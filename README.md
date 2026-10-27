@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm definitelynotironman! 👋
 
-<!--
-**definitelynotironman/definitelynotironman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jarvis say something cool: ...
+Jarvis?
+JARVIS!
 
-Here are some ideas to get you started:
+Thank you for stumbling upon my page.
+I'm really just a regular dude who enjoys problem solving, design and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creativity is my headline; the only skill i will fight off AI.  
+I love to speak, I love a crowd and I love a challenge. I also love being in a room that reminds me there is always something i can improve on.
+
+![definitelynotironman's Stats](https://github-readme-stats.vercel.app/api?username=definitelynotironman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🛠️ What I Get Up To
+
+- ☕ Im an engineering Student
+- 🧊 I model, design and tinker
+- 🐍 I code, yes, call me a caveman. Electronics, Embedded systems and Software
+- 🕵️ I also tinker in cybersecurity. just a few CTFs here and there, a lot of curiosity, and only the legal kind of hacking. Promise.
+
+## Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+</p>
+
+## 🌱 I'm Currently Exploring
+
+- 🥽 Building for Virtual Reality app designing with Unity
+- ☁️ AWS services
+- 💳 A few fintech projects
+
+## 📬 The guy under the mask is:
+- [LinkedIn](https://www.linkedin.com/in/albert-lizazi)
+
+---
+
+📓 *This is my building-for-fun diary. Every repo is a new page.*
