@@ -10,7 +10,7 @@ I'm really just a regular dude who enjoys problem solving, design and engineerin
 Creativity is my headline; the only skill i will fight off AI.  
 I love to speak, I love a crowd and I love a challenge. I also love being in a room that reminds me there is always something i can improve on.
 
-![definitelynotironman's Stats](https://github-readme-stats.vercel.app/api?username=definitelynotironman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![definitelynotironman's Stats](https://github-readme-stats.vercel.app/api?username=definitelynotironman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&commits_year=2026)
 
 ## 🛠️ What I Get Up To
 
