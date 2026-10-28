@@ -17,7 +17,7 @@ I love to speak, I love a crowd and I love a challenge. I also love being in a r
 - 🐍 I code, yes, call me a caveman. Electronics, Embedded systems and Software
 - 🕵️ I also tinker in cybersecurity. just a few CTFs here and there, a lot of curiosity, and only the legal kind of hacking. Promise.
 
-## Tech Stack
+## My Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>&nbsp;
@@ -27,7 +27,7 @@ I love to speak, I love a crowd and I love a challenge. I also love being in a r
 
 ## 🌱 I'm Currently Exploring
 
-- 🥽 Building for Virtual Reality app designing with Unity
+- 🥽 Virtual Reality app designing with Unity
 - ☁️ AWS services
 - 💳 A few fintech projects
 
